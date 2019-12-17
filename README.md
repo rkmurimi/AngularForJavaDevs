@@ -13,6 +13,7 @@ Which stylesheet format would you like to use?
 Choose 'SCSS'
 
 cd demo-app
+
 idea .
 
 Inspect the project structure
